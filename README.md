@@ -1,1 +1,1 @@
-Aranan pozisyon için şirkete gönderile cvler üzerinde arama yapılabilen bir ufak bir arama moturu. Apache lucene, vue.js, python kullanıldı.
+Aranan pozisyon için şirkete gönderile cvler üzerinde arama yapılabilen basit bir arama motoru. Apache lucene, vue.js, python kullanıldı.
